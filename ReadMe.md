@@ -1,1 +1,1 @@
-### This repo is for Git practice in DGM1600-002.
+### This repo is for Git practice in DGM1600-002. Here is the ReadMe.md file.
